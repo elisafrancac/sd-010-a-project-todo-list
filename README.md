@@ -11,6 +11,6 @@ Em especial, foi necessário manipular o DOM para adicionar (ou remover) itens �
 
 ## Técnologias usadas
 
-*HTML
-*CSS
-*JavaScript
+* HTML
+* CSS
+* JavaScript
